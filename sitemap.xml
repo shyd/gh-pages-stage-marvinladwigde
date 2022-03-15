@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://marvinladwig.de/hunde-strand.html</loc>
-<lastmod>2021-02-13T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://marvinladwig.de/hunde-jahreszeiten.html</loc>
-<lastmod>2021-02-14T00:00:00+00:00</lastmod>
+<loc>https://marvinladwig.de/hunde-lostplaces.html</loc>
+<lastmod>2021-03-21T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://marvinladwig.de/hunde-wald.html</loc>
-<lastmod>2021-03-06T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://marvinladwig.de/hunde-lostplaces.html</loc>
-<lastmod>2021-03-21T00:00:00+00:00</lastmod>
+<lastmod>2021-06-06T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://marvinladwig.de/hunde-black.html</loc>
@@ -25,8 +17,8 @@
 <lastmod>2021-08-21T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://marvinladwig.de/menschen-familie.html</loc>
-<lastmod>2020-09-13T00:00:00+00:00</lastmod>
+<loc>https://marvinladwig.de/hunde-jahreszeiten.html</loc>
+<lastmod>2021-11-01T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://marvinladwig.de/menschen-friends.html</loc>
@@ -37,8 +29,12 @@
 <lastmod>2021-08-15T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://marvinladwig.de/pferde-portrait.html</loc>
-<lastmod>2020-10-18T00:00:00+00:00</lastmod>
+<loc>https://marvinladwig.de/menschen-familie.html</loc>
+<lastmod>2021-12-21T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://marvinladwig.de/menschen-hochzeit.html</loc>
+<lastmod>2021-12-21T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://marvinladwig.de/pferde-jahreszeiten.html</loc>
@@ -49,8 +45,16 @@
 <lastmod>2021-03-21T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://marvinladwig.de/pferde-portrait.html</loc>
+<lastmod>2021-07-29T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://marvinladwig.de/pferde-blumen.html</loc>
 <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://marvinladwig.de/pferde-action.html</loc>
+<lastmod>2021-09-26T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://marvinladwig.de/about.html</loc>
